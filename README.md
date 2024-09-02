@@ -1,5 +1,5 @@
 # Build-a-Celestial-Bodies-Database
-Using PostgreSQL to Build a Celestial Bodies Database ( Project from FreeCodeCamp )
+Using PostgreSQL to Build a Celestial Bodies Database
 
 ![universe 1](https://github.com/user-attachments/assets/2afa27ef-639f-46cf-adbd-aae4fe7728e7)
 
